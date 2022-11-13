@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejemplos Tipos Menus</string>
+    <string name="descripcionImagenBienvenida">SurfBoards</string>
+    <string name="textoInicio">Inicio</string>
+    <string name="marcaNSP">NSP</string>
+    <string name="marcaLost">Lost</string>
+    <string name="marcaPukas">Pukas</string>
+    <string name="pukasSkate">Skate</string>
+    <string name="pukasSurf">Surf</string>
+    <string name="descripcionInicio">Surf es un término que procede del inglés y que se refiere a un deporte marítimo. Quienes practican surf se suben encima de una tabla y tratan de conservar el equilibrio mientras aprovechan las olas para desplazarse.</string>
+</resources>

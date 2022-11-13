@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/NSP" android:title="@string/marcaNSP"></item>
+    <item android:id="@+id/Lost" android:title="@string/marcaLost"></item>
+    <item android:id="@+id/Pukas" android:title="@string/marcaPukas">
+        <!-- Submenú -->
+        <menu>
+            <item android:id="@+id/SurfPukas" android:title="@string/pukasSurf"></item>
+            <item android:id="@+id/SkatePukas" android:title="@string/pukasSkate"></item>
+        </menu>
+    </item>
+</menu>
